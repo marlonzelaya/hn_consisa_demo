@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<odoo>
+    <record model="base.hn.external" id="demo_consisa">
+
+    </record>
+</odoo>

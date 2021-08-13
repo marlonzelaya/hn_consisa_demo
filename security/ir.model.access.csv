@@ -1,0 +1,7 @@
+model_id:id,group_id:id,id,name,perm_read,perm_write,perm_create,perm_unlink
+model_hn_name_agency,group_agency_manager,access_hn_name_agency_manager,hn.name.agency,1,1,1,1
+model_hn_name_agency,group_agency_user,access_hn_name_agency_user,hn.name.agency,1,0,0,0
+model_hn_request_team,group_request_team_manager,access_hn_request_team_manager,hn.request.team,1,1,1,1
+model_hn_request_team,group_request_team_user,access_hn_request_team_user,hn.request.team,1,0,0,0
+model_hn_zone_type,group_zone_manager,access_hn_zone_type_manager,hn.zone.type,1,1,1,1
+model_hn_zone_type,group_zone_user,access_hn_zone_type_user,hn.zone.type,1,0,0,0
