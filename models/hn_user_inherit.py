@@ -6,3 +6,4 @@ class HnUsersInherit(models.Model):
 
     extension = fields.Char("Extension", help="Forma para comunicarse con el personal en caso de llamada.",
                             tracking=True)
+    user_normal = fields.Boolean(string="Usuario Normal",  )

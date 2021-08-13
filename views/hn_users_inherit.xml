@@ -14,6 +14,7 @@
                         <field name="extension"/>
                     </group>
                     <group cols="2">
+                        <field name="user_normal"/>
                     </group>
                 </group>
             </page>
